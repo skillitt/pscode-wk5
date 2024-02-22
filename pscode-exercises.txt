@@ -20,7 +20,10 @@ print the sum of the numbers
 
 // Exercise 2: Check if a Number is Even or Odd
 
-(Your pseudocode here)
+ask for a number
+check if input is odd or Even
+if number is odd print "odd"
+else if number is even print "even"
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
