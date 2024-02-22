@@ -9,9 +9,14 @@ ask for 2 numbers
 add the 2 number together 
 print on the screen the sum of those 2 numbers
 
+input num1
+input num2
+sum = num1 + num2
+print sum
 
-
-(Your pseudocode here)
+pick two numbers
+add the two numbers together
+print the sum of the numbers
 
 // Exercise 2: Check if a Number is Even or Odd
 
