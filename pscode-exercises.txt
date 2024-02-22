@@ -9,6 +9,8 @@ ask for 2 numbers
 add the 2 number together 
 print on the screen the sum of those 2 numbers
 
+# my pseudo codes
+
 input num1
 input num2
 sum = num1 + num2
@@ -33,8 +35,14 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-(Your pseudocode here)
+# my pseudo code 
 
-test
+a)user input numbers 1 - 5
+b)average = the sum or the count
+c)if the number is less than the minumum then minimun = number
+  if the number is more than the maximum then maximum = number
+d)print "The smallest number is minimum"
+  print "The largest number in maximum
+
 -- END --
 
